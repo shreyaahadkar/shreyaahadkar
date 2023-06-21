@@ -5,7 +5,6 @@ Hi, I’m Shreya
 - 📫 How to reach me: shreyaahadkar@gmail.com
 
 
-<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyaahadkar&theme=github_dark" /></p>
 
 
 
