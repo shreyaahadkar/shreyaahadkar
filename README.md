@@ -1,7 +1,7 @@
 Hi, I’m Shreya
 - 🔭 I’m interested in Machine Learning & Data Science
 - 💞️ Also a  UI/UX Design enthusiast
-- 🌱 I’m currently learning **StreamLit**
+- 🌱 I’m currently learning **Tableau**
 - 📫 How to reach me: shreyaahadkar@gmail.com
 
 
